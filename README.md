@@ -440,7 +440,7 @@ Any language that can make an HTTP request. This README shows Python and TypeScr
 - [Company Database Scraper API](https://github.com/piloterr/company-data-api)
 - [Crunchbase Scraper API](https://github.com/piloterr/crunchbase-scraper)
 - [Europages Scraper API](https://github.com/piloterr/europages-scraper)
-- [g2-scraper](https://github.com/piloterr/g2-scraper)
+- [G2 Scraper API](https://github.com/piloterr/g2-scraper)
 - [github-scraper](https://github.com/piloterr/github-scraper)
 - [Glassdoor Scraper API](https://github.com/piloterr/glassdoor-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
